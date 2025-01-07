@@ -10,7 +10,7 @@ NumberWords adalah modul atau formula excel yang digunakan untuk merubah nominal
   4. maka jendela baru akan terbuka yaitu jendela Visual Basic Application (VBA).
   5. pada sidebar sebelah kiri, pilih ThisWorkbook.
   6. kemudian klik kanan pada ThisWorkbook dan pilih Import File.
-  7. cari file Number_to_Words.bas dan klik open. Sebelumnya download file Number_to_Words.bas terlebih dahulu di ...
+  7. cari file Number_to_Words.bas dan klik open. Sebelumnya download file Number_to_Words.bas terlebih dahulu di https://github.com/mydevdetex/excel_module_NumberWords/archive/refs/heads/main.zip , kemudian extract.
   8. maka akan ada module baru yang bernama Number_to_Words yang dapat di cek di side bar sebelah kiri di dalam folder Modules.
   9. modul pun siap digunakan dan jangan lupa untuk menyimpan file excel tersebut, simpan sebagai <b><i>"Excel Macro-Enabled Workbook(*.xlsm)"</i></b> agar modul tetap bisa digunakan di lain waktu.
   10. Apabila tidak dapat menyimpan sebagai <b><i>"Excel Macro-Enabled Workbook(*.xlsm)"</i></b>, maka Macro harus diaktifkan terlebih dahulu dengan cara :
