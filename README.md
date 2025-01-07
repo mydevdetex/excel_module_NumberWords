@@ -1,8 +1,6 @@
 # excel_module_NumberWords
 NumberWords adalah modul atau formula excel yang digunakan untuk merubah nominal (angka) menjadi terbilang (kata-kata)
-  =====================================
   # cara import modul
-  =====================================
   1. buka file excel yang diinginkan, atau bisa juga membuka file excel baru
   2. klik menu Developer di menu bar pada file excel yang sedang dibuka. Jika menu Developer belum aktif, maka aktifkan terlebih     dahulu dengan cara :
 	    -------------------------------------
@@ -19,9 +17,7 @@ NumberWords adalah modul atau formula excel yang digunakan untuk merubah nominal
   8. maka akan ada module baru yang bernama Number_to_Words yang dapat di cek di side bar sebelah kiri di dalam folder Modules
   9. modul pun siap digunakan dan jangan lupa untuk menyimpan file excel tersebut
 
-  =====================================
   # cara penggunaan modul
-  =====================================
   1. tutup jendela VBA dan kembali ke halaman utama
   2. buka sembarang Sheet
   3. masukkan sembarang angka pada suatu cell, misal 750000 pada cell A3
