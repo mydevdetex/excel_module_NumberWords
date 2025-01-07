@@ -5,7 +5,7 @@ NumberWords adalah modul atau formula excel yang digunakan untuk merubah nominal
   2. klik menu Developer di menu bar pada file excel yang sedang dibuka. Jika menu Developer belum aktif, maka aktifkan terlebih dahulu dengan cara :
 	    ### aktifasi menu Developer
 	    a. di menu File tab, klik Options > Customize Ribbon. <br>
-	    b. pada Customize the Ribbon dan di bawah Main Tabs, pilih Developer check dan centang pada box tersebut, maka menu Developer akan tampil.
+	    b. pada Customize the Ribbon dan di bawah Main Tabs (berada di sisi kanan), pilih Developer check dan centang pada box tersebut, maka menu Developer akan tampil.
 	
   3. pilih menu Visual Basic
   4. maka jendela baru akan terbuka yaitu jendela Visual Basic Application (VBA)
