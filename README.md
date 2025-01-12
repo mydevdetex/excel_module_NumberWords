@@ -32,3 +32,5 @@ NumberWords adalah modul atau formula excel yang digunakan untuk merubah nominal
   7. untuk membuat huruf menjadi huruf besar tiap awal kata maka tambahkan formula proper sehingga penulisan formula akan menjadi =proper(NumberWords(A3)).
   8. maka hasilnya akan menjadi <b><i>"Tujuh Ratus Lima Puluh Ribu"</i></b>.
   9. untuk menambah kata <b><i>"rupiah"</i></b> di akhir kalimat, maka formula akan menjadi =proper(NumberWords(A3)&" rupiah") dan akan menghasilkan keluaran <b><i>"Tujuh Ratus Lima Puluh Ribu Rupiah"</i></b>.
+  ## link video tutorial
+  https://youtu.be/k4aGGVsoBjk
